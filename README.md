@@ -1,4 +1,4 @@
-# C.K. Bachoo | Dual Certified IT Professional | Navy Veteran ⚓
+# Chad K. Bachoo | Dual Certified IT Professional | Navy Veteran ⚓
 ### Cybersecurity Fellow @ The Knowledge House | Cohort: New York IF-CS-26
 
 * 🛡️ **Specialization:** **Purple Teaming** — Bridging offensive tactics with defensive resilience.
