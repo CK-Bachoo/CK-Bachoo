@@ -1,16 +1,21 @@
-## Hi there 👋
+# C.K. Bachoo | Dual Certified IT Professional | Navy Veteran ⚓
+### Cybersecurity Fellow @ The Knowledge House | Cohort: New York IF-CS-26
 
-<!--
-**CK-Bachoo/CK-Bachoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🛡️ **Specialization:** **Purple Teaming** — Bridging offensive tactics with defensive resilience.
+* 📜 **Credentials:** **Google & CompTIA A+ Dual Certification** (May 2025) 🏆
 
-Here are some ideas to get you started:
+## 🏅 Professional Badges & Training
+* **Dual Credential:** Google IT Support + CompTIA A+ 
+* **Cisco:** Ethical Hacking | Endpoint Security | Network Defense | CyberOps | Jr. Cybersecurity 🌐
+* **Enterprise & GRC:** ServiceNow (ITSM) | GRC (Compliance) | Udemy Infrastructure Labs 🏛️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛤️ Certification Pathway (Active Pursuit)
+* **Foundational:** Network+ | Security+ | ISC² Certified in Cybersecurity (CC)
+* **Professional:** CCNA | CompTIA CySA+ | CompTIA PenTest+
+
+## 🛠️ Technical Stack
+* **OS:** Kali Linux 🐉 | Ubuntu 🐧 | Termux 🐚
+* **Virtualization:** VMware Workstation 🖥️ | GitHub Codespaces ☁️
+* **Tools:** VS Code 💻 | Git/GitHub 🛠️ | Wireshark 🦈 | Packet Tracer 🌐 | Python 🐍
+
+`[ Status: Active | Logic: Analytical | Focus: Purple Team ]`
