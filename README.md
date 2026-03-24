@@ -1,4 +1,4 @@
-# Dual Certified IT Support Engineer | Cybersecurity PurpleTeam | AI Security Architect | AI Architect | Navy Veteran ⚓
+# Dual Certified IT Support Engineer | Cybersecurity PurpleTeam | Ai Security Architect | AI Architect | Navy Veteran ⚓
 ### Cybersecurity Fellow @ The Knowledge House | Cohort: New York IF-CS-26
 
 * 🛡️ **Specialization:** **Purple Teaming** — Bridging offensive tactics with defensive resilience.
@@ -9,7 +9,7 @@
 
 ## 🏅 Professional Badges & Training
 * **Dual Credential:** Google IT Support + CompTIA A+ 
-* **Cisco:** Ethical Hacking | Endpoint Security | Network Defense | CyberOps | Jr. Cybersecurity 🌐
+* **Cisco Networking Academy:** Ethical Hacking | Endpoint Security | Network Defense | CyberOps 🌐
 * **Enterprise & GRC:** ServiceNow (ITSM) | GRC (Compliance) | Udemy Infrastructure Labs 🏛️
 
 ## 🛤️ Certification Pathway (Active Pursuit)
@@ -19,6 +19,6 @@
 ## 🛠️ Technical Stack
 * **OS:** Kali Linux 🐉 | Ubuntu 🐧 | Termux 🐚
 * **Virtualization:** VMware Workstation 🖥️ | GitHub Codespaces ☁️
-* **Tools:** VS Code 💻 | Git/GitHub 🛠️ | Wireshark 🦈 | Packet Tracer 🌐 | Python 🐍
+* **Tools:** VS Code 💻 | Git/GitHub 🛠️ | Wireshark 🦈 | Nmap | Python 🐍
 
 `[ Status: Active | Logic: Analytical | Focus: Purple Team ]`
