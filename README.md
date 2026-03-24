@@ -1,8 +1,11 @@
-# Chad K. Bachoo | AI Architect | AI Security Architect | Dual Certified IT Support Engineer | Navy Veteran ⚓
+# Dual Certified IT Support Engineer | Cybersecurity PurpleTeam | Ai Security Architect | AI Architect | Navy Veteran ⚓
 ### Cybersecurity Fellow @ The Knowledge House | Cohort: New York IF-CS-26
 
 * 🛡️ **Specialization:** **Purple Teaming** — Bridging offensive tactics with defensive resilience.
 * 📜 **Credentials:** **Google & CompTIA A+ Dual Certification** (May 2025) 🏆
+
+## 🏗️ Architecture Pipeline
+**Note 20 Ultra** ➔ **Termux / Google Cloud Shell** ➔ **GitHub Codespaces** ➔ **Canvas**
 
 ## 🏅 Professional Badges & Training
 * **Dual Credential:** Google IT Support + CompTIA A+ 
