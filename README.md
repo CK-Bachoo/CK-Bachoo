@@ -22,4 +22,5 @@
 * **Security & Pentesting:** Wireshark 🦈 | Nmap 🔍 | Metasploit 💣 | Burp Suite | Hashcat 🔓
 * **Networking & Cloud:** Cisco Packet Tracer 🌐 | Google Cloud Shell ☁️ | VMware Workstation 🖥️ | ServiceNow (ITSM) 🛠️
 * **Languages & Automation:** Python 🐍 | Bash 🐚 | SQL 📊 | Git/GitHub 🛠️ | VS Code 💻
+
 `[ Status: Active | Logic: Analytical | Focus: Purple Team ]`
