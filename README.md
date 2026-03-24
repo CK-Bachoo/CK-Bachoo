@@ -1,4 +1,4 @@
-# Dual Certified IT Support Engineer | Cybersecurity PurpleTeam | Ai Security Architect | AI Architect | Navy Veteran ⚓
+# Dual Certified IT Support Engineer | Cybersecurity PurpleTeam | AI Security Architect | AI Architect | Navy Veteran ⚓
 ### Cybersecurity Fellow @ The Knowledge House | Cohort: New York IF-CS-26
 
 * 🛡️ **Specialization:** **Purple Teaming** — Bridging offensive tactics with defensive resilience.
