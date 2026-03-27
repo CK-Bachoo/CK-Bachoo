@@ -1,4 +1,4 @@
-# AI Security Architect | Cybersecurity Purple Team | Navy Veteran ⚓
+# Cybersecurity Purple Team | AI Security Architect | Navy Veteran ⚓
 ### Cybersecurity Fellow @ The Knowledge House | New York IF-CS-26
 
 * 🛡️ **Specialization:** Purple Teaming — Bridging offensive tactics with defensive resilience.
