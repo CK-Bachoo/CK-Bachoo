@@ -2,8 +2,8 @@
 ### Cybersecurity Fellow @ The Knowledge House | New York IF-CS-26
 
 * 🛡️ **Specialization:** Purple Teaming — Bridging offensive tactics with defensive resilience.
-* 📜 **Credentials:** [Google & CompTIA A+ Dual Certification](https://www.credly.com/users/chad-bachoo) 🏆
-* 🔗 **Professional Recon:** [LinkedIn Profile](https://www.linkedin.com/in/chad-bachoo-275152a5) | [Credly Transcripts](https://www.credly.com/users/ck-b)
+* 📜 **Credentials:** [Google & CompTIA A+ Dual Certification](https://www.credly.com/users/ck-b/edit) 🏆
+* 🔗 **Professional Recon:** [LinkedIn Profile](https://www.linkedin.com/in/ckbachoo?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Credly Transcripts](https://www.credly.com/users/ck-b)
 
 ## 🏗️ Architecture Pipeline
 **Note 20 Ultra (The Bunker)** ➔ **Termux / Google Cloud Shell** ➔ **GitHub Codespaces** ➔ **Canvas**
