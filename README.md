@@ -3,7 +3,7 @@
 
 * 🛡️ **Specialization:** Purple Teaming — Bridging offensive tactics with defensive resilience.
 * 📜 **Credentials:** [Google & CompTIA A+ Dual Certification](https://www.credly.com/users/chad-bachoo) 🏆
-* 🔗 **Professional Recon:** [LinkedIn Profile](https://www.linkedin.com/in/chad-bachoo-275152a5) | [Credly Transcripts](https://www.credly.com/users/chad-bachoo)
+* 🔗 **Professional Recon:** [LinkedIn Profile](https://www.linkedin.com/in/chad-bachoo-275152a5) | [Credly Transcripts](https://www.credly.com/users/ck-b)
 
 ## 🏗️ Architecture Pipeline
 **Note 20 Ultra (The Bunker)** ➔ **Termux / Google Cloud Shell** ➔ **GitHub Codespaces** ➔ **Canvas**
