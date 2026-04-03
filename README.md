@@ -1,48 +1,16 @@
-# AI Security Architect | Cybersecurity Purple Team | Navy Veteran ⚓
-### Cybersecurity Fellow @ The Knowledge House | New York IF-CS-26
+# C.K. Bachoo — Navy Veteran | Cybersecurity Innovation Fellow
 
-* 🛡️ **Specialization:** Purple Teaming — Bridging offensive tactics with defensive resilience.
-* 📜 **Credentials:** [Google & CompTIA A+ Dual Certification](https://www.credly.com/users/chad-bachoo) 🏆
-* 🔗 **Professional Recon:** [LinkedIn Profile](https://www.linkedin.com/in/chad-bachoo-275152a5) | [Credly Transcripts](https://www.credly.com/users/chad-bachoo)
+Mobile-first cybersecurity practitioner building enterprise-grade Purple Team capabilities on constrained Android hardware (Samsung Note 20 Ultra + Termux). 
 
-## 🏗️ Architecture Pipeline
-**Note 20 Ultra (The Bunker)** ➔ **Termux / Google Cloud Shell** ➔ **GitHub Codespaces** ➔ **Canvas**
+**Core Strengths**
+- Purple Team operations and defensive automation
+- Mobile-to-cloud security pipelines
+- AI-assisted analysis and documentation
+- Zero Trust enforcement in resource-limited environments
 
-## 🏅 Technical Stack
-* **AI Security:** LLM Red Teaming (Garak / Promptfoo) | Adversarial Defense | LangChain 🤖
-* **OS & Labs:** Kali Linux 🐉 | Ubuntu 🐧 | Termux Bunker 🐚 | Android (Mobile Lab) 📱
-* **Security Ops:** Wireshark 🦈 | Nmap 🔍 | Metasploit 💣 | Burp Suite | Hashcat 🔓
-* **Governance:** NIST CSF | CMMC GRC | CIS Controls 🏛️
-* **Automation:** Python 🐍 | Bash 🐚 | Git/GitHub 🛠️
+**Current Deployment**
+- The Knowledge House NY Innovation Fellowship (IF-CS-26)
+- Full Portfolio: https://github.com/CK-Bachoo/IF-Cyber-Portfolio
+- Mobile SOC Rig: https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench
 
-`[ Status: Active | Logic: Analytical | Focus: AI Security Architecture ]`
-
----
-### 🏛️ ARCHIVE & TECHNICAL SPECS BELOW:
-
-# Dual Certified IT Support Engineer | Cybersecurity Purple Team | AI Security Architect | Navy Veteran ⚓
-### Cybersecurity Fellow @ The Knowledge House | Cohort: New York IF-CS-26
-
-* 🛡️ **Specialization:** **Purple Teaming** — Bridging offensive tactics with defensive resilience.
-* 📜 **Credentials:** **Google & CompTIA A+ Dual Certification** (May 2025) 🏆
-
-## 🏗️ Architecture Pipeline
-**Note 20 Ultra** ➔ **Termux / Google Cloud Shell** ➔ **GitHub Codespaces** ➔ **Canvas**
-
-## 🏅 Professional Badges & Training
-* **Dual Credential:** Google IT Support + CompTIA A+ 
-* **Cisco Networking Academy:** Ethical Hacking | Endpoint Security | Network Defense | CyberOps 🌐
-* **Enterprise & GRC:** ServiceNow (ITSM) | GRC (Compliance) | Udemy Infrastructure Labs 🏛️
-
-## 🛤️ Certification Pathway (Active Pursuit)
-* **Foundational:** Network+ | Security+ | ISC² Certified in Cybersecurity (CC)
-* **Professional:** CCNA | CompTIA CySA+ | CompTIA PenTest+
-
-## 🛠️ Technical Stack
-* **AI & Security Architecture:** TensorFlow | PyTorch | HuggingFace | LLM Red Teaming (Garak / Promptfoo) | LangChain 🤖
-* **OS & Labs:** Kali Linux 🐉 | Ubuntu 🐧 | Termux Bunker 🐚 | Android (Mobile Lab) 📱
-* **Security & Pentesting:** Wireshark 🦈 | Nmap 🔍 | Metasploit 💣 | Burp Suite | Hashcat 🔓
-* **Networking & Cloud:** Cisco Packet Tracer 🌐 | Google Cloud Shell ☁️ | VMware Workstation 🖥️ | ServiceNow (ITSM) 🛠️
-* **Languages & Automation:** Python 🐍 | Bash 🐚 | SQL 📊 | Git/GitHub 🛠️ | VS Code 💻
-
-`[ Status: Active | Logic: Analytical | Focus: Purple Team ]`
+Open to connecting on mobile security, DevSecOps, automation, and Purple Team topics.
