@@ -1,7 +1,5 @@
 
-# C.K. Bachoo — AI Security Architect, Ethical Hacker & Penetration Tester | Purple Team Ops | Navy Veteran
-
-Cybersecurity Innovation Fellow (IF-CS-26 NY) engineering enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense capabilities directly from constrained Android hardware (Samsung Note 20 Ultra + Termux). 
+**Cybersecurity Innovation Fellow (IF-CS-26 NY) engineering enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense capabilities directly from constrained Android hardware (Samsung Note 20 Ultra + Termux).** 
 
 **Core Strengths & Verified Evidence**
 - **[[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md):** Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
