@@ -15,4 +15,3 @@
 - Mobile SOC Rig: https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench
 
 Open to connecting on AI security, penetration testing, DevSecOps, and Purple Team operations.
-```
