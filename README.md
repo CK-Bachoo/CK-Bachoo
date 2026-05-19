@@ -18,5 +18,3 @@ Cybersecurity Innovation Fellow (IF-CS-26 NY) engineering enterprise-grade Purpl
 
 Open to connecting on AI security, penetration testing, DevSecOps, and Purple Team operations.
 ```
-
-***
