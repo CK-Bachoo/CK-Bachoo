@@ -1,9 +1,6 @@
-# C.K. Bachoo — Cybersecurity Innovation Fellow IF-CS-26 NY. 
-Purple Team Ops , Mobile-to-Cloud Lab Environments , IT Support AI Security Architect & Navy Veteran
+# C.K. Bachoo — Cybersecurity Innovation Fellow IF-CS-26 NY. Purple Team Ops , Mobile-to-Cloud Lab Environments , IT Support AI Security Architect & Navy Veteran
 
-
-
-# Cybersecurity Innovation Fellow (IF-CS-26 NY) engineering enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense capabilities directly from constrained Android hardware (Samsung Note 20 Ultra + Termux). 
+**Cybersecurity Innovation Fellow (IF-CS-26 NY) engineering enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense capabilities directly from constrained Android hardware (Samsung Note 20 Ultra + Termux).** 
 
 **Core Strengths & Verified Evidence**
 - **[Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md):** Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
