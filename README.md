@@ -60,14 +60,3 @@ Open to collaborations in AI security, Pentesting, DevSecOps, and Purple Team op
 > Orchestrating cybersecurity workflows from a Samsung Galaxy Note 20 Ultra using Termux, automation scripting, and Mobile-to-Cloud Zero-Trust infrastructure.
 
 ---
-
-## 🧠 Governance & Security Alignment
-
-All security artifacts, automation workflows, and AI-assisted analysis aligned to:
-- NIST CSF 2.0
-- CIS Controls
-- Zero-Trust operational principles
-
-Across a 75-session tactical cybersecurity pipeline.
-
----
