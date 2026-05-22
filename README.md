@@ -10,46 +10,27 @@ Building enterprise-grade Purple Team operations, penetration testing workflows,
 
 ---
 
-## ⚔️ Core Strengths & Verified Evidence
+Core Strengths & Verified Evidence
+- [[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md): Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
+- [[ATLAS] AI Security Architecture](https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench/blob/master/ThreatProfile_Gemma_Atlas.md): Hardening local and cloud-based LLM agents against prompt injection and "God-Mode" vulnerabilities using the MITRE ATLAS™ framework.
+- [[S18] Mobile-to-Cloud SecOps Pipelines](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/HardenedOutpost_SAD.md): Architecting Zero-Trust bridges between mobile endpoints (Termux) and heavy compute layers (GCP, Azure) to bypass hardware limitations.
+- [[S09] Purple Team Operations & Defensive Automation](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/system_auditor.py): Orchestrating continuous adversarial simulation (Red Team) combined with automated incident response and Micro-XDR sentries (Blue Team).
+- [[S28 S29 S30 TLAB-10] Digital Forensics & Incident Response (DFIR)](https://github.com/CK-Bachoo/IF-Cyber-Portfolio): Bypassing Google Cloud Shell loopback mount restrictions (`mount: wrong fs type`) by performing raw binary carving (`strings` piped to `grep`) on a corrupted FAT32 raw disk image (`compromised_drive.dd`) to surgically extract deleted malware payloads without relying on standard filesystem geometry.
+- [Governance & Immutable Documentation](https://github.com/CK-Bachoo/IF-Cyber-Portfolio#%E2%9A%96-governance--framework-alignment): Aligning all security artifacts and AI-assisted analysis to NIST CSF 2.0 and CIS Controls across the entire 75-session tactical pipeline.
 
-### [TLAB-09] Ethical Hacking & Penetration Testing
-Executing vulnerability assessments, privilege escalation, and active exploit validation across:
-- Web applications (SQLi/XSS/BOLA)
-- Networks
-- Cloud infrastructure
-### [ATLAS] AI Security Architecture
-Hardening local and cloud-based LLM agents against:
-- Prompt injection
-- “God-Mode” vulnerabilities
-- AI workflow abuse
+Core Expertise:
+- Full-spectrum ethical hacking & penetration testing (web, network, cloud)
+- AI security architecture & hardening (MITRE ATLAS)
+- Mobile-to-Cloud Zero-Trust SecOps pipelines
+- Purple Team automation & Micro-XDR
+- Digital Forensics & Incident Response (DFIR)
 
-Using the MITRE ATLAS™ framework.
+Aligned to NIST CSF 2.0 and CIS Controls.
 
-### [S18] Mobile-to-Cloud SecOps Pipelines
-Architecting Zero-Trust bridges between:
-- Android mobile endpoints (Termux)
-- Google Cloud Platform (GCP)
-- Microsoft Azure
+Portfolio: [IF-Cyber-Portfolio](https://github.com/CK-Bachoo/IF-Cyber-Portfolio)  
+Mobile SOC Rig: [Android Cybersecurity Workbench](https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench)
 
-To bypass traditional hardware limitations through distributed compute workflows.
-
-### [S09] Purple Team Operations & Defensive Automation
-Combining:
-- Adversarial simulation
-- Automated detection engineering
-- Micro-XDR defensive sentries
-- Continuous validation workflows
-
-### [S28 • S29 • S30 • TLAB-10] Digital Forensics & Incident Response (DFIR)
-Performed raw binary carving against corrupted FAT32 disk images after filesystem mount failure (`mount: wrong fs type`) inside Google Cloud Shell.
-
-Recovered deleted malware payloads using:
-- `strings`
-- `grep`
-- forensic artifact extraction
-- manual filesystem reconstruction techniques
-
-Without relying on standard filesystem geometry.
+Open to collaborations in AI security, Pentesting, DevSecOps, and Purple Team operations.
 
 ---
 
@@ -97,79 +78,5 @@ All security artifacts, automation workflows, and AI-assisted analysis aligned t
 - Zero-Trust operational principles
 
 Across a 75-session tactical cybersecurity pipeline.
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 IF-Cyber-Portfolio
-Mobile-first Purple Team portfolio demonstrating:
-- Zero-Trust architecture
-- detection engineering
-- automation workflows
-- forensic logging
-- AI-assisted analysis
-
-🔗 https://github.com/CK-Bachoo/IF-Cyber-Portfolio
-
----
-
-### 🔹 Android Cybersecurity Workbench
-Enterprise-style mobile SOC environment engineered entirely from:
-- Samsung Galaxy Note 20 Ultra
-- Termux
-- cloud-integrated tooling
-
-Featuring:
-- reconnaissance workflows
-- brute-force monitoring
-- forensic logging
-- incident response automation
-
-🔗 https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench
-
----
-
-### 🔹 Foundations Lab Final
-Security-focused infrastructure and systems administration project covering:
-- Linux operations
-- networking
-- troubleshooting
-- security hardening
-- scripting fundamentals
-
-🔗 https://github.com/CK-Bachoo/Foundations_Lab_Final
-
----
-
-## 🎓 Certifications & Training
-
-- CompTIA A+
-- Google IT Support Professional Certificate
-- Cybersecurity Innovation Fellow (IF-CS-26 NY)
-
-Currently advancing toward:
-- CySA+
-- Penetration Testing specialization
-- AI security operations
-
----
-
-## 🤝 Open to Collaboration
-
-Interested in collaborating on:
-- AI security
-- Purple Team operations
-- DevSecOps
-- DFIR
-- mobile cybersecurity research
-- automation engineering
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/CK-Bachoo
-- LinkedIn: www.linkedin.com/in/chad-k-bachoo
 
 ---
