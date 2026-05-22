@@ -1,4 +1,4 @@
-# C. K. Bachoo Cybersecurity Innovation Fellow (IF-CS-26 NY) • Navy Veteran  
+# Chad K. Bachoo Cybersecurity Innovation Fellow (IF-CS-26 NY) Navy Veteran  
 Building enterprise-grade Purple Team operations, penetration testing workflows, and AI defense systems from constrained Android hardware using Samsung Galaxy Note 20 Ultra + Termux + Mobile-to-Cloud Zero-Trust pipelines.
 
 <p align="left">
@@ -7,7 +7,7 @@ Building enterprise-grade Purple Team operations, penetration testing workflows,
 
 ---
 
-Core Strengths & Verified Evidence
+# Core Strengths & Verified Evidence
 - [[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md): Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
 - [[ATLAS] AI Security Architecture](https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench/blob/master/ThreatProfile_Gemma_Atlas.md): Hardening local and cloud-based LLM agents against prompt injection and "God-Mode" vulnerabilities using the MITRE ATLAS™ framework.
 - [[S18] Mobile-to-Cloud SecOps Pipelines](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/HardenedOutpost_SAD.md): Architecting Zero-Trust bridges between mobile endpoints (Termux) and heavy compute layers (GCP, Azure) to bypass hardware limitations.
@@ -15,7 +15,7 @@ Core Strengths & Verified Evidence
 - [[S28 S29 S30 TLAB-10] Digital Forensics & Incident Response (DFIR)](https://github.com/CK-Bachoo/IF-Cyber-Portfolio): Bypassing Google Cloud Shell loopback mount restrictions (`mount: wrong fs type`) by performing raw binary carving (`strings` piped to `grep`) on a corrupted FAT32 raw disk image (`compromised_drive.dd`) to surgically extract deleted malware payloads without relying on standard filesystem geometry.
 - [Governance & Immutable Documentation](https://github.com/CK-Bachoo/IF-Cyber-Portfolio#%E2%9A%96-governance--framework-alignment): Aligning all security artifacts and AI-assisted analysis to NIST CSF 2.0 and CIS Controls across the entire 75-session tactical pipeline.
 
-Core Expertise:
+# Core Expertise:
 - Full-spectrum ethical hacking & penetration testing (web, network, cloud)
 - AI security architecture & hardening (MITRE ATLAS)
 - Mobile-to-Cloud Zero-Trust SecOps pipelines
@@ -58,12 +58,6 @@ Open to collaborations in AI security, Pentesting, DevSecOps, and Purple Team op
 </p>
 
 > Orchestrating cybersecurity workflows from a Samsung Galaxy Note 20 Ultra using Termux, automation scripting, and Mobile-to-Cloud Zero-Trust infrastructure.
-
----
-
-## 📊 GitHub Analytics
-
-<img height="180" src="https://vercel.app" style="display:inline-block; margin-right:5px;" /><img height="180" src="https://vercel.app" style="display:inline-block;" />
 
 ---
 
