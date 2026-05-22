@@ -1,4 +1,5 @@
-**Cybersecurity Innovation Fellow (IF-CS-26 NY) & Navy Veteran Building enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense systems from constrained Android hardware (Samsung Galaxy Note 20 Ultra 5G + Termux + Mobile-to-Cloud Bridge).**
+**Cybersecurity Innovation Fellow (IF-CS-26 NY) & Navy Veteran** 
+Building enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense systems from constrained Android hardware (Samsung Galaxy Note 20 Ultra 5G + Termux + Mobile-to-Cloud Bridge).
 
 **Core Strengths & Verified Evidence**
 - **[[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md):** Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
