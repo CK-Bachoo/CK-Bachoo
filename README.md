@@ -1,5 +1,4 @@
-
-**Cybersecurity Innovation Fellow (IF-CS-26 NY) engineering enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense capabilities directly from constrained Android hardware (Samsung Note 20 Ultra + Termux).** 
+**Cybersecurity Innovation Fellow (IF-CS-26 NY) & Navy Veteran Building enterprise-grade Purple Team operations, penetration testing, and autonomous AI defense systems from constrained Android hardware (Samsung Galaxy Note 20 Ultra 5G + Termux + Mobile-to-Cloud Bridge).**
 
 **Core Strengths & Verified Evidence**
 - **[[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md):** Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
@@ -9,9 +8,16 @@
 - **[[S28 S29 S30 TLAB-10] Digital Forensics & Incident Response (DFIR)](https://github.com/CK-Bachoo/IF-Cyber-Portfolio):** Bypassing Google Cloud Shell loopback mount restrictions (`mount: wrong fs type`) by performing raw binary carving (`strings` piped to `grep`) on a corrupted FAT32 raw disk image (`compromised_drive.dd`) to surgically extract deleted malware payloads without relying on standard filesystem geometry.
 - **[Governance & Immutable Documentation](https://github.com/CK-Bachoo/IF-Cyber-Portfolio#%E2%9A%96-governance--framework-alignment):** Aligning all security artifacts and AI-assisted analysis to NIST CSF 2.0 and CIS Controls across the entire 75-session tactical pipeline.
 
-**Current Deployment**
-- The Knowledge House NY Innovation Fellowship (IF-CS-26)
-- Full Portfolio: https://github.com/CK-Bachoo/IF-Cyber-Portfolio
-- Mobile SOC Rig: https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench
+**Core Expertise:**
+- Full-spectrum ethical hacking & penetration testing (web, network, cloud)
+- AI security architecture & hardening (MITRE ATLAS)
+- Mobile-to-Cloud Zero-Trust SecOps pipelines
+- Purple Team automation & Micro-XDR
+- Digital Forensics & Incident Response (DFIR)
 
-Open to connecting on AI security, penetration testing, DevSecOps, and Purple Team operations.
+Aligned to NIST CSF 2.0 and CIS Controls.
+
+**Portfolio:** [IF-Cyber-Portfolio](https://github.com/CK-Bachoo/IF-Cyber-Portfolio)  
+**Mobile SOC Rig:** [Android Cybersecurity Workbench](https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench)
+
+Open to collaborations in AI security, Pentesting, DevSecOps, and Purple Team operations.
