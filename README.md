@@ -17,7 +17,6 @@ Executing vulnerability assessments, privilege escalation, and active exploit va
 - Web applications (SQLi/XSS/BOLA)
 - Networks
 - Cloud infrastructure
-
 ### [ATLAS] AI Security Architecture
 Hardening local and cloud-based LLM agents against:
 - Prompt injection
@@ -86,11 +85,7 @@ Without relying on standard filesystem geometry.
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CK-Bachoo&show_icons=true&theme=tokyonight" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CK-Bachoo&layout=compact&theme=tokyonight" />
-</p>
+<img height="180" src="https://vercel.app" style="display:inline-block; margin-right:5px;" /><img height="180" src="https://vercel.app" style="display:inline-block;" />
 
 ---
 
