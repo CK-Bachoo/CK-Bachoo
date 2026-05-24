@@ -1,7 +1,6 @@
 # Cybersecurity Innovation Fellow (IF-CS-26 NY) Navy Veteran  
 
 Building enterprise-grade Purple Team operations, penetration testing workflows, and AI defense systems from constrained Android hardware using Samsung Galaxy Note 20 Ultra + Termux + Mobile-to-Cloud Zero-Trust pipelines.
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F72D&width=750&lines=Purple+Team+Operations+C.K.+BACHOO+TKH+Innovation+Fellow+IF-CS-26+NY;Mobile-to-Cloud+SecOps;AI+Security+Architecture;Penetration+Testing+%26+DFIR;Samsung+Galaxy+Note+20+Ultra+%2B+Termux;Zero-Trust+Automation+Pipelines" />
 </p>
