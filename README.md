@@ -5,8 +5,6 @@ Building enterprise-grade Purple Team operations, penetration testing workflows,
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F72D&width=750&lines=Purple+Team+Operations+C.K.+BACHOO+TKH+Innovation+Fellow+IF-CS-26+NY;Mobile-to-Cloud+SecOps;AI+Security+Architecture;Penetration+Testing+%26+DFIR;Samsung+Galaxy+Note+20+Ultra+%2B+Termux;Zero-Trust+Automation+Pipelines" />
 </p>
 
----
-
 # Core Strengths & Verified Evidence
 - [[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/OmniPortal_Assessment.md): Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
 - [[ATLAS] AI Security Architecture](https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench/blob/master/ThreatProfile_Gemma_Atlas.md): Hardening local and cloud-based LLM agents against prompt injection and "God-Mode" vulnerabilities using the MITRE ATLAS™ framework.
