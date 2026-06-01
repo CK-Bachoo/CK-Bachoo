@@ -1,4 +1,5 @@
-# The Knowledge House Bronx, NY: IF-CS-26 NY Cybersecurity Innovation Fellow & Navy Veteran  
+# The Knowledge House Bronx, NY IF-CS-26 
+**NY Cybersecurity Innovation Fellow & Navy Veteran**  
 Building enterprise-grade Purple Team operations, penetration testing workflows, and AI defense systems from constrained Android hardware using Samsung Galaxy Note 20 Ultra + Termux + Mobile-to-Cloud Zero-Trust pipelines.
 
 <p align="left">
