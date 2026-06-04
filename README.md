@@ -9,7 +9,7 @@ Building enterprise-grade Purple Team operations, penetration testing workflows,
 </p>
 
 # Core Strengths & Verified Evidence
-- [[TLAB-09] Ethical Hacking & Penetration Testing]((https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/cffa8aba8aaa63c5ca79e1b56521b575061494cc/week-09/OmniPortal_Assessment.md#L4): Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
+- [[TLAB-09] Ethical Hacking & Penetration Testing](https://github.com/CK-Bachoo/IF-Cyber-Portfolio): Executing full-spectrum vulnerability assessments, privilege escalation, and active exploits across web applications (SQLi/XSS/BOLA), networks, and cloud infrastructure.
 - [[ATLAS] AI Security Architecture](https://github.com/CK-Bachoo/Android-mobile-cybersecurity-workbench/blob/master/ThreatProfile_Gemma_Atlas.md): Hardening local and cloud-based LLM agents against prompt injection and "God-Mode" vulnerabilities using the MITRE ATLAS™ framework.
 - [[S18] Mobile-to-Cloud SecOps Pipelines](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/HardenedOutpost_SAD.md): Architecting Zero-Trust bridges between mobile endpoints (Termux) and heavy compute layers (GCP, Azure) to bypass hardware limitations.
 - [[S09] Purple Team Operations & Defensive Automation](https://github.com/CK-Bachoo/IF-Cyber-Portfolio/blob/main/system_auditor.py): Orchestrating continuous adversarial simulation (Red Team) combined with automated incident response and Micro-XDR sentries (Blue Team).
